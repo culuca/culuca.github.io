@@ -68,4 +68,24 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 
 ## Report Management Workflow
 
+**Home Page**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/SharePoint%20Home%20Page.PNG" height="200px">
+
+**Admin View**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/SharePoint%20Admin%20View.jpg" height="200px">
+
+**Profile View**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/SharePoint%20TDA%20Profile%20View%20.jpg" height="200px">
+
 ## App Screenshots
+
+**Country View**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20SweatAndToil%20App_Burma%20Screen.png" height="300px">
+
+**Promotional Flyer**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20Both%20App%20Flyers.png" height="600px">
