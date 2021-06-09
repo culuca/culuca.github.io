@@ -17,7 +17,6 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 
 * Sweat & Toil API Documentation: [https://developer.dol.gov/others/sweat-and-toil/](https://developer.dol.gov/others/sweat-and-toil/)
 * Sweat & Toil App: [https://www.dol.gov/agencies/ilab/apps](https://www.dol.gov/agencies/ilab/apps)
-* Reports and Apps Promotional Video: [YouTube](https://www.youtube.com/watch?v=bulXmJM4Grw)
 * Child Labor Reports: [https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings](https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings)
 
 # Publications
@@ -31,8 +30,7 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 
 # Videos
 
-* Lorem Ipum [LoremIpsum.com](https://loremipsum.com)
-
+* Reports and Apps Promotional Video: [YouTube](https://www.youtube.com/watch?v=bulXmJM4Grw)
 
 # Training
 * Lorem Ipum [LoremIpsum.com](https://loremipsum.com)
