@@ -22,23 +22,29 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 # Publications
 
 *  2019 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2019/2019_TDA_Report_Online_Final.pdf)
+
 <img src="https://user-images.githubusercontent.com/85594635/121292375-d8fd9580-c8b7-11eb-9dc3-0a65caad8b0d.png" height="250px">
 
 *  2019 Mexico Profile: [Profile PDF](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20Mexico%20TDA%20Profile.pdf)
 
 *  2018 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2018/ChildLaborReportBook.pdf)
+
 <img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2018%20TDA%20Report%20Cover.png" height="250px">
 
 *  2017 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2017/ChildLaborReportBook.pdf)
+
 <img src="https://user-images.githubusercontent.com/85594635/121292062-5248b880-c8b7-11eb-95ef-bdb5ef94d1be.png" height="250px">
 
 *  2016 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2016/tdabook.pdf)
+
 <img src="https://user-images.githubusercontent.com/85594635/121292031-465cf680-c8b7-11eb-9401-39d6db1ac656.png" height="250px">
 
 *  2015 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2015/tda2015.pdfs)
+
 <img src="https://user-images.githubusercontent.com/85594635/121292001-380eda80-c8b7-11eb-8a0b-76f9223a942e.png" height="250px">
 
 *  2014 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2014/2014TDA.pdf)
+
 <img src="https://user-images.githubusercontent.com/85594635/121291430-414b7780-c8b6-11eb-9c17-a7c27ea90fe1.png" height="250px">
 
 # Videos
