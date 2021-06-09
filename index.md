@@ -3,7 +3,7 @@
 
 > Division Chief, Research and Policy Unit, (2014 - Current).
 
-Chanda Uluca is a ...
+Chanda Uluca is a Division Chief with 14 years of experience in project management, research and report writing, supervising staff and leading teams, creating data management platforms, coordinating with high-level U.S. and foreign government officials in more than twenty Sub-Saharan Africa countries, and developing operating procedures and training programs. Responsible for the annual production and publication layout of a 1,200 page congressionally mandated report on the worst forms of child labor in over 130 trade beneficiary countries involving collaboration with hundreds of individuals. Managed successful multi-million dollar technical assistance projects in Sub-Saharan Africa and carried out diplomatic missions in twelve countries, including in the Democratic Republic of the Congo, Republic of the Congo, Ethiopia, Madagascar, Namibia, Rwanda, Togo, Tunisia, Uganda, and Zimbabwe. Developed iOS and Android apps and supported the creation of a REST API to enable public access to data. Promoted small business development and sustainable livelihood promotion in Cameroon as a volunteer for the Peace Corps. Strategic problem solver and organized self-motivator with a proven record of achievement while working in an agile and fast-paced environment. Received an outstanding performance rating for the past four years. Holds a master’s degree in political science, grants management certificate, and an active secret security clearance. 
 
 1. [Websites](#websites)
 2. [Publications](#publications)
