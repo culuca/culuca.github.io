@@ -45,7 +45,9 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 
 *  2014 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2014/2014TDA.pdf)
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2014%20TDA%20Report%20Cover.jpg)
+![image](https://user-images.githubusercontent.com/85594635/121291430-414b7780-c8b6-11eb-9c17-a7c27ea90fe1.png)
+
+<img src="https://user-images.githubusercontent.com/85594635/121291430-414b7780-c8b6-11eb-9c17-a7c27ea90fe1.png" height="250px">
 
 # Videos
 
