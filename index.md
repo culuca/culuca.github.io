@@ -10,8 +10,8 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 1. [Websites](#websites)
 2. [Publications](#publications)
 3. [Videos](#videos)
-6. [Training](#training)
-7. [Certifications](#certifications)
+4. [Exhibits](#exhibits)
+
 
 # Websites
 
@@ -32,11 +32,9 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 
 * Reports and Apps Promotional Video: [YouTube](https://www.youtube.com/watch?v=bulXmJM4Grw)
 
-# Training
+# Exhibits
+
 * Lorem Ipum [LoremIpsum.com](https://loremipsum.com)
 
-
-# Certifications
-* Lorem Ipum [LoremIpsum.com](https://loremipsum.com)
 
 ![2014 TDA Cover](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2014%20TDA%20Report%20Cover.jpg)
