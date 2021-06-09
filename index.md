@@ -22,19 +22,30 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 # Publications
 
 *  2019 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2019/2019_TDA_Report_Online_Final.pdf)
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20TDA%20Report%20Cover.png" height="250px">
+
 *  2018 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2018/ChildLaborReportBook.pdf)
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2018%20TDA%20Report%20Cover.png" height="250px">
+
 *  2017 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2017/ChildLaborReportBook.pdf)
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2017%20TDA%20Report%20Cover.png" height="250px">
+
 *  2016 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2016/tdabook.pdf)
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2016%20TDA%20Report%20Cover.png" height="250px">
+
 *  2015 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2015/tda2015.pdfs)
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2015%20TDA%20Report%20Cover.jpg" height="250px">
+
 *  2014 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2014/2014TDA.pdf)
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2014%20TDA%20Report%20Cover.jpg" height="250px">
 
 # Videos
 
 * Reports and Apps Promotional Video: [YouTube](https://www.youtube.com/watch?v=bulXmJM4Grw)
 
 # Exhibits
+## Infographics
 
-* Lorem Ipum [LoremIpsum.com](https://loremipsum.com)
+## Report Management Workflow
 
-
-![2014 TDA Cover](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2014%20TDA%20Report%20Cover.jpg)
+## App Screenshots
