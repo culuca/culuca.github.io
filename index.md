@@ -22,31 +22,23 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 # Publications
 
 *  2019 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2019/2019_TDA_Report_Online_Final.pdf)
-
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20TDA%20Report%20Cover.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292375-d8fd9580-c8b7-11eb-9dc3-0a65caad8b0d.png" height="250px">
 
 *  2019 Mexico Profile: [Profile PDF](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20Mexico%20TDA%20Profile.pdf)
 
 *  2018 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2018/ChildLaborReportBook.pdf)
-
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2018%20TDA%20Report%20Cover.png)
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2018%20TDA%20Report%20Cover.png" height="250px">
 
 *  2017 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2017/ChildLaborReportBook.pdf)
-
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2017%20TDA%20Report%20Cover.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292062-5248b880-c8b7-11eb-95ef-bdb5ef94d1be.png" height="250px">
 
 *  2016 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2016/tdabook.pdf)
-
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2016%20TDA%20Report%20Cover.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292031-465cf680-c8b7-11eb-9401-39d6db1ac656.png" height="250px">
 
 *  2015 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2015/tda2015.pdfs)
-
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2015%20TDA%20Report%20Cover.jpg)
+<img src="https://user-images.githubusercontent.com/85594635/121292001-380eda80-c8b7-11eb-8a0b-76f9223a942e.png" height="250px">
 
 *  2014 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2014/2014TDA.pdf)
-
-![image](https://user-images.githubusercontent.com/85594635/121291430-414b7780-c8b6-11eb-9c17-a7c27ea90fe1.png)
-
 <img src="https://user-images.githubusercontent.com/85594635/121291430-414b7780-c8b6-11eb-9c17-a7c27ea90fe1.png" height="250px">
 
 # Videos
@@ -58,44 +50,44 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 
 **2018 Global Gaps - Laws and Regulations**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2018%20Global%20Gaps%20-%20Laws%20and%20Regulations.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292105-68567900-c8b7-11eb-8d8d-f54f08fe563d.png" height="200px">
 
 **2018 What is Hazardous Child Labor?**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2018%20What%20is%20Haz%20CL.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292180-87eda180-c8b7-11eb-9068-f4b67c764504.png" height="400px">
 
 **2019 Global Breakdown Country Assessments**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20Global%20Breakdown%20Country%20Assessments.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292243-a2c01600-c8b7-11eb-9343-540a2bbe76e8.png" height="600px">
 
 **2019 ILAB Projects**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20ILAB%20Projects.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292309-bec3b780-c8b7-11eb-92bc-02f970faa7c1.png" height="600px">
 
 **What Can You Do?**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/What-Can-You-Do-poster.jpg)
+<img src="https://user-images.githubusercontent.com/85594635/121292486-09453400-c8b8-11eb-9e1a-1b7e5df17d16.png" height="600px">
 
 ## Report Management Workflow
 
 **Home Page**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/SharePoint%20Home%20Page.PNG)
+<img src="https://user-images.githubusercontent.com/85594635/121292442-f468a080-c8b7-11eb-9f6f-ae6f2d3dfcb3.png" height="200px">
 
 **Admin View**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/SharePoint%20Admin%20View.jpg)
+<img src="https://user-images.githubusercontent.com/85594635/121292410-e9157500-c8b7-11eb-935e-1ed0eb8e1266.png" height="200px">
 
 **Profile View**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/SharePoint%20TDA%20Profile%20View%20.jpg)
+<img src="https://user-images.githubusercontent.com/85594635/121292463-fdf20880-c8b7-11eb-9486-3b99eaf0fdb4.png" height="200px">
 
 ## App Screenshots
 
-**Country View**
+**Country Profile View**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20SweatAndToil%20App_Burma%20Screen.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292329-caaf7980-c8b7-11eb-9c8f-b0780970a3ca.png" height="300px">
 
 **Promotional Flyer**
 
-![](https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20Both%20App%20Flyers.png)
+<img src="https://user-images.githubusercontent.com/85594635/121292218-98058100-c8b7-11eb-82df-4c7174227121.png" height="600px">
