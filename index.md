@@ -1,5 +1,7 @@
 # Chanda Uluca
-![cu](https://avatars.githubusercontent.com/u/85594635?s=200) [LinkedIn](https://www.linkedin.com/in/culuca/) | [GitHub](https://github.com/culuca) | 
+![cu](https://avatars.githubusercontent.com/u/85594635?s=200) 
+
+[LinkedIn](https://www.linkedin.com/in/culuca/) | [GitHub](https://github.com/culuca) 
 
 > Division Chief, Research and Policy Unit, (2014 - Current).
 
@@ -13,7 +15,10 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 
 # Websites
 
-* Lorem Ipum [LoremIpsum.com](https://loremipsum.com)
+* Sweat & Toil API Documentation: [https://developer.dol.gov/others/sweat-and-toil/](https://developer.dol.gov/others/sweat-and-toil/)
+* 2019 Findings on the Worst Forms of Child Labor: [TDA Report](https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings)
+* Sweat & Toil App: [https://www.dol.gov/agencies/ilab/apps](https://www.dol.gov/agencies/ilab/apps)
+* Reports and Apps Promotional Video: [YouTube](https://www.youtube.com/watch?v=bulXmJM4Grw)
 
 # Publications
 
