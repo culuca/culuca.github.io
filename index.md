@@ -16,13 +16,18 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 # Websites
 
 * Sweat & Toil API Documentation: [https://developer.dol.gov/others/sweat-and-toil/](https://developer.dol.gov/others/sweat-and-toil/)
-* 2019 Findings on the Worst Forms of Child Labor: [TDA Report](https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings)
 * Sweat & Toil App: [https://www.dol.gov/agencies/ilab/apps](https://www.dol.gov/agencies/ilab/apps)
 * Reports and Apps Promotional Video: [YouTube](https://www.youtube.com/watch?v=bulXmJM4Grw)
+* Child Labor Reports: [https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings](https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings)
 
 # Publications
 
-* Lorem Ipum [LoremIpsum.com](https://loremipsum.com)
+*  2019 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2019/2019_TDA_Report_Online_Final.pdf)
+*  2018 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2018/ChildLaborReportBook.pdf)
+*  2017 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2017/ChildLaborReportBook.pdf)
+*  2016 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2016/tdabook.pdf)
+*  2015 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2015/tda2015.pdfs)
+*  2014 Findings on the Worst Forms of Child Labor: [TDA Report PDF](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2014/2014TDA.pdf)
 
 # Videos
 
