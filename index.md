@@ -46,6 +46,26 @@ Chanda Uluca is a Division Chief with 14 years of experience in project manageme
 # Exhibits
 ## Infographics
 
+**2018 Global Gaps - Laws and Regulations**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2018%20Global%20Gaps%20-%20Laws%20and%20Regulations.png" height="200px">
+
+**2018 What is Hazardous Child Labor?**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2018%20What%20is%20Haz%20CL.png" height="400px">
+
+**2019 Global Breakdown Country Assessments**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20Global%20Breakdown%20Country%20Assessments.png" height="600px">
+
+**2019 ILAB Projects**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/2019%20ILAB%20Projects.png" height="600px">
+
+**What Can You Do?**
+
+<img src="https://github.com/culuca/culuca.github.io/blob/f04874e6a9924e14246f57724679f6dae9320b39/resources/What-Can-You-Do-poster.jpg" height="600px">
+
 ## Report Management Workflow
 
 ## App Screenshots
